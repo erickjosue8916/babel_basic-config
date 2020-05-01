@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["require","exports","module"],"mappings":";;AAAAA,OAAO,CAAC,iBAAD,CAAP;;AAEAC,OAAO,GAAGC,MAAM,CAACD,OAAP,GAAiBD,OAAO,CAAC,gBAAD,CAAlC","sourcesContent":["require('@babel/register')\n\nexports = module.exports = require('./config/index')"],"file":"index.js"}
